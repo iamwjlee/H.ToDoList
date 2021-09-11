@@ -1,4 +1,4 @@
-# vue-crash-2021
+# Vue JS Crash Course2021 from Traversy Media
 
 ## Project setup
 ```
@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run backend
+npm run backend for json-server
 npm run serve
 ```
 
